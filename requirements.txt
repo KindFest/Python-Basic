@@ -9,6 +9,6 @@ httpcore==0.9.1
 httpx==0.23.0
 hyperframe==5.2.0
 idna==2.10
-Pillow==9.0.1
+Pillow==9.3.0
 rfc3986==1.4.0
 sniffio==1.1.0
